@@ -1,0 +1,9 @@
+
+avrdude -c arduino -b 19200 -p t85 -P COM7 -n
+
+
+//1Mhz Attiny85
+
+
+avrdude -c arduino -b 19200 -p t85 -P COM7 -U lfuse:w:0x62:m -U hfuse:w:0xDF:m
+
