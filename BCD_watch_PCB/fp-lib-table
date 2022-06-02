@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "BCD watch V1.0")(type KiCad)(uri "$(KIPRJMOD)/BCD watch V1.0.pretty")(options "")(descr ""))
+)
